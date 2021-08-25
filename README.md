@@ -26,12 +26,9 @@
   <a href="https://soundcloud.app.goo.gl/b77SQvLcsmruWXTj7" target="_blank">
     <img height="30" src="https://raw.githubusercontent.com/jaesonnn/jaesonnn/main/resources/png/soundcloud.png?raw=true">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <!--
   <a href="https://github.com/jaesonnn" target="_blank">
     <img height="30" src="https://raw.githubusercontent.com/jaesonnn/jaesonnn/main/resources/png/github.png?raw=true">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  -->
 </p>
-
-<!---
-jaesonnn/jaesonnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
