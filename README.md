@@ -6,7 +6,7 @@
 
 ![](https://raw.githubusercontent.com/jaesonnn/jaesonnn/main/resources/gif/coder-guy.gif)
 
-## 📫 Find me around the web:
+## 📫 Follow me on:
 <p align="left">
   <a href="https://twitter.com/WellFloyd" target="_blank">
     <img height="30" src="https://github.com/jaesonnn/jaesonnn/blob/main/resources/png/twitter.png?raw=true">
