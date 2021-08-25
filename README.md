@@ -2,6 +2,8 @@
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
+![](https://raw.githubusercontent.com/jaesonnn/jaesonnn/main/resources/gif/coder-guy.gif)
+
 ## 📫 Find me around the web:
 <p align="left">
   <a href="https://twitter.com/WellFloyd" target="_blank">
@@ -14,8 +16,6 @@
     <img height="30" src="https://raw.githubusercontent.com/jaesonnn/jaesonnn/main/resources/png/spotify.png?raw=true">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
-![](https://raw.githubusercontent.com/jaesonnn/jaesonnn/main/resources/gif/coder-guy.gif)
 
 <!---
 jaesonnn/jaesonnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
