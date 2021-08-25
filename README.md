@@ -8,7 +8,7 @@
     <img height="30" src="https://github.com/jaesonnn/jaesonnn/blob/main/resources/png/twitter.png?raw=true">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/wellfloyd_/" target="_blank">
-    <img height="30" src="https://raw.githubusercontent.com/jaesonnn/jaesonnn/main/resources/png/instagram.png">
+    <img height="30" src="https://www.instagram.com/abhishek_maira10/">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://open.spotify.com/user/31z2tveyx3ry6jl23wqswi2dm4si?si=Th7M3BCCQKGlYORcXsA52A&dl_branch=1" target="_blank">
     <img height="30" src="https://raw.githubusercontent.com/jaesonnn/jaesonnn/main/resources/png/spotify.png?raw=true">
