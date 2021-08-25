@@ -1,5 +1,7 @@
 # Hi, I'm Floyd 👋🏽👨🏽‍💻
 
+[![Visits Badge](https://badges.pufler.dev/visits/jaesonnn/jaesonnn)](https://badges.pufler.dev/visits/jaesonnn/jaesonnn)
+
 ![](https://raw.githubusercontent.com/jaesonnn/jaesonnn/main/resources/gif/coder-guy.gif)
 
 ## 📫 Find me around the web:
