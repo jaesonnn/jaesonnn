@@ -24,10 +24,12 @@
 
 ![](https://raw.githubusercontent.com/jaesonnn/jaesonnn/main/resources/gif/coder-guy.gif)
 
-<a href="https://www.buymeacoffee.com/floyd404" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="120" ></a> <br/>
 <!--
+<a href="https://www.buymeacoffee.com/floyd404" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="120" ></a> <br/>
 If you like what I do, maybe consider buying me coffee/tea 🥺👉👈
 -->
+
+<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 ## 📫 Follow me on:
 <p align="left">
