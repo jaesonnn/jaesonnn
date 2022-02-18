@@ -2,6 +2,8 @@
 
 <p> I'm an insightful Information Technology major from <img src="https://image.flaticon.com/icons/png/512/329/329922.png" width="13"/> <b>San Miguel, Belize</b>. I thrive on the satisfaction that comes from solving and understanding challenges of all sizes. Above all, to do so while remaining modest and goal-oriented! Some technologies I enjoy working with include C++, Python, ReactJS, and mark-up languages for web development.</p>
 
+<!-- ![](https://komarev.com/ghpvc/?username=your-github-jaesonnn&color=dc143c) -->
+
 <h3>Things I code with:</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -18,18 +20,11 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<!--
-<img src="https://raw.githubusercontent.com/jaesonnn/jaesonnn/main/resources/gif/switches.gif" alt="side Image" align="right" width="200" height="auto" />
--->
-
+<!-- <img src="https://raw.githubusercontent.com/jaesonnn/jaesonnn/main/resources/gif/switches.gif" alt="side Image" align="right" width="200" height="auto" /> -->
 <!-- ![](https://raw.githubusercontent.com/jaesonnn/jaesonnn/main/resources/gif/coder-guy.gif) -->
-
-<!--
-<a href="https://www.buymeacoffee.com/floyd404" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="120" ></a> <br/>
-If you like what I do, maybe consider buying me coffee/tea 🥺👉👈
--->
-
 <!-- <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jaesonnn&row=1&theme=onedark)](https://github.com/jaesonnn/github-profile-trophy)
 
 ## 📫 Follow me on:
 <p align="left">
