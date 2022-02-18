@@ -3,6 +3,7 @@
 <p> I'm an insightful Information Technology major from <img src="https://image.flaticon.com/icons/png/512/329/329922.png" width="13"/> <b>San Miguel, Belize</b>. I thrive on the satisfaction that comes from solving and understanding challenges of all sizes. Above all, to do so while remaining modest and goal-oriented! Some technologies I enjoy working with include C++, Python, ReactJS, and mark-up languages for web development.</p>
 
 <!-- ![](https://komarev.com/ghpvc/?username=your-github-jaesonnn&color=dc143c) -->
+<!-- ![Metrics](https://metrics.lecoq.io/jaesonnn?template=classic&config.timezone=America%2FBelize) -->
 
 <h3>Things I code with:</h3>
 <p>
@@ -20,11 +21,17 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+<!--
+### Now Playing
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31z2tveyx3ry6jl23wqswi2dm4si)
+<br/>
+-->
+
 <!-- <img src="https://raw.githubusercontent.com/jaesonnn/jaesonnn/main/resources/gif/switches.gif" alt="side Image" align="right" width="200" height="auto" /> -->
 <!-- ![](https://raw.githubusercontent.com/jaesonnn/jaesonnn/main/resources/gif/coder-guy.gif) -->
 <!-- <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jaesonnn&row=1&theme=onedark)](https://github.com/jaesonnn/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=jaesonnn&row=1&theme=onedark)](https://github.com/jaesonnn/github-profile-trophy) -->
 
 ## 📫 Follow me on:
 <p align="left">
