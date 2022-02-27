@@ -1,4 +1,4 @@
-# Hi, I'm Floyd 👋🏽👨🏽‍💻
+# Hi, I'm Floyd 👋🏽👨🏽‍💻 
 
 <p> I'm an insightful Information Technology major from <img src="https://image.flaticon.com/icons/png/512/329/329922.png" width="13"/> <b>San Miguel, Belize</b>. I thrive on the satisfaction that comes from solving and understanding challenges of all sizes. Above all, to do so while remaining modest and goal-oriented! Some technologies I enjoy working with include C++, Python, ReactJS, and mark-up languages for web development.</p>
 
