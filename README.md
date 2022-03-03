@@ -1,4 +1,4 @@
-# Hi, I'm Floyd 👋🏽👨🏽‍💻 
+# Hi, I'm Floyd 👋🏽👨🏽‍💻    
 
 <p> I'm an insightful Information Technology major from <img src="https://image.flaticon.com/icons/png/512/329/329922.png" width="13"/> <b>San Miguel, Belize</b>. I thrive on the satisfaction that comes from solving and understanding challenges of all sizes. Above all, to do so while remaining modest and goal-oriented! Some technologies I enjoy working with include C++, Python, ReactJS, and mark-up languages for web development.</p>
 
@@ -25,8 +25,8 @@
 <!--
 ### Now Playing
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31z2tveyx3ry6jl23wqswi2dm4si)
-<br/>
--->
+<br/>   
+-->   
 
 <!-- <img src="https://raw.githubusercontent.com/jaesonnn/jaesonnn/main/resources/gif/switches.gif" alt="side Image" align="right" width="200" height="auto" /> -->
 <!-- ![](https://raw.githubusercontent.com/jaesonnn/jaesonnn/main/resources/gif/coder-guy.gif) -->
