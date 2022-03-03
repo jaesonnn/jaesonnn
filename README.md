@@ -2,7 +2,7 @@
 
 <p> I'm an insightful Information Technology major from <img src="https://image.flaticon.com/icons/png/512/329/329922.png" width="13"/> <b>San Miguel, Belize</b>. I thrive on the satisfaction that comes from solving and understanding challenges of all sizes. Above all, to do so while remaining modest and goal-oriented! Some technologies I enjoy working with include C++, Python, ReactJS, and mark-up languages for web development.</p>
 
-<!-- ![](https://komarev.com/ghpvc/?username=your-github-jaesonnn&color=dc143c) -->
+![](https://komarev.com/ghpvc/?username=your-github-jaesonnn&color=dc143c)
 <!-- ![Metrics](https://metrics.lecoq.io/jaesonnn?template=classic&config.timezone=America%2FBelize) -->
 
 <h3>Things I code with:</h3>
