@@ -21,13 +21,6 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-
-<!--
-### Now Playing
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31z2tveyx3ry6jl23wqswi2dm4si)
-<br/>   
--->   
-
 <!-- <img src="https://raw.githubusercontent.com/jaesonnn/jaesonnn/main/resources/gif/switches.gif" alt="side Image" align="right" width="200" height="auto" /> -->
 <!-- ![](https://raw.githubusercontent.com/jaesonnn/jaesonnn/main/resources/gif/coder-guy.gif) -->
 <!-- <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> -->
