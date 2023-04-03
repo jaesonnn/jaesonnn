@@ -3,7 +3,7 @@
 <!--
 ### :man_technologist: Find me here! :
 -->
-<div id="badges" align = "center">
+<div id="badges">
   
   <a href="https://twitter.com/FloydDotDev">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
