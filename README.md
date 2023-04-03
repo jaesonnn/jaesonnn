@@ -59,5 +59,16 @@
   -->
 </p>
 
+### My Stats 🚀:
+
+<table cellpadding="0">
+  <tr style="padding: 0">
+    <!-- GitHub Stats Card -->  
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=jaesonnn&show_icons=true&theme=radical#gh-dark-mode-only"/></td>
+    <!-- GitHub Top Language Card -->
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaesonnn&layout=compact&theme=radical&custom_title=Languages"/></td>
+  </tr>
+</table>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jaesonnn&&theme=dark&show_icons=true)](https://git.io/streak-stats" />  
