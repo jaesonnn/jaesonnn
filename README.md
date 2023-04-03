@@ -1,5 +1,20 @@
 # Hi, I'm Floyd 👋🏽👨🏽‍💻    
 
+### :man_technologist: Find me here! :
+<div id="badges" align = "center">
+  
+  <a href="https://twitter.com/FloydDotDev">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  
+  <a href="https://hashnode.com/@floydack">
+    <img src="https://img.shields.io/badge/hashnode-grey?style=for-the-badge&logo=hashnode&logoColor=royalblue" alt="hashnode Badge"/>
+  </a>
+ 
+ <a href="https://www.linkedin.com/in/floyd-ack-28b5a11a0/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
 <p> I'm a driven and analytical network administrator from San Miguel, Belize, with a passion for problem-solving. As an Informaion Technology major, I've honed my skills in a variety of technologies, including C++, Python, PHP, ReactJS, and mark-up languages for web development. </p>
 
 <p> In my current role as a network administrator, I thrive on the challenge of keeping systems running smoothly and securely, and I enjoy working with teams to identify and solve complex technical issues. I'm committed to staying up-to-date on the latest technologies and industry trends, and I'm always looking for new opportunities to learn and grow as a professional.</p>
@@ -29,6 +44,7 @@
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=jaesonnn&row=1&theme=onedark)](https://github.com/jaesonnn/github-profile-trophy) -->
 
+<!--
 ## 📫 Follow me on:
 <p align="left">
   <a href="https://www.linkedin.com/in/floyd-ack-28b5a11a0/" target="_blank">
@@ -37,16 +53,15 @@
   <a href="https://www.facebook.com/jason.ack/" target="_blank">
     <img height="30" src="https://raw.githubusercontent.com/jaesonnn/jaesonnn/main/resources/png/facebook.png?raw=true">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<!--   <a href="https://www.youtube.com/" target="_blank">
+  <a href="https://www.youtube.com/" target="_blank">
     <img height="30" src="https://raw.githubusercontent.com/jaesonnn/jaesonnn/main/resources/png/youtube.png?raw=true">
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/FloydDotDev" target="_blank">
     <img height="30" src="https://github.com/jaesonnn/jaesonnn/blob/main/resources/png/twitter.png?raw=true">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/floyd.ck/" target="_blank">
     <img height="30" src="https://cdn-icons-png.flaticon.com/512/408/408707.png">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <!--
   <a href="https://soundcloud.app.goo.gl/b77SQvLcsmruWXTj7" target="_blank">
     <img height="30" src="https://raw.githubusercontent.com/jaesonnn/jaesonnn/main/resources/png/soundcloud.png?raw=true">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -56,23 +71,8 @@
   <a href="https://github.com/jaesonnn" target="_blank">
     <img height="30" src="https://raw.githubusercontent.com/jaesonnn/jaesonnn/main/resources/png/github.png?raw=true">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  -->
 </p>
-
-### :man_technologist: Find me here! :
-<div id="badges" align = "center">
-  
-  <a href="https://twitter.com/FloydDotDev">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  
-  <a href="https://hashnode.com/@floydack">
-    <img src="https://img.shields.io/badge/hashnode-grey?style=for-the-badge&logo=hashnode&logoColor=royalblue" alt="hashnode Badge"/>
-  </a>
- 
- <a href="https://www.linkedin.com/in/floyd-ack-28b5a11a0/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+-->
 
 ### My Stats 🚀:
 
