@@ -1,6 +1,8 @@
 # Hi, I'm Floyd 👋🏽👨🏽‍💻    
 
+<!--
 ### :man_technologist: Find me here! :
+-->
 <div id="badges" align = "center">
   
   <a href="https://twitter.com/FloydDotDev">
@@ -14,6 +16,8 @@
  <a href="https://www.linkedin.com/in/floyd-ack-28b5a11a0/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  
+  </div>
 
 <p> I'm a driven and analytical network administrator from San Miguel, Belize, with a passion for problem-solving. As an Informaion Technology major, I've honed my skills in a variety of technologies, including C++, Python, PHP, ReactJS, and mark-up languages for web development. </p>
 
