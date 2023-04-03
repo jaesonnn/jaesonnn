@@ -59,6 +59,21 @@
   -->
 </p>
 
+### :man_technologist: Find me here! :
+<div id="badges" align = "center">
+  
+  <a href="https://twitter.com/FloydDotDev">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  
+  <a href="https://hashnode.com/@floydack">
+    <img src="https://img.shields.io/badge/hashnode-grey?style=for-the-badge&logo=hashnode&logoColor=royalblue" alt="hashnode Badge"/>
+  </a>
+ 
+ <a href="https://www.linkedin.com/in/floyd-ack-28b5a11a0/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
 ### My Stats 🚀:
 
 <table cellpadding="0">
