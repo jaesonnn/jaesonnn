@@ -19,7 +19,7 @@
   
   </div>
 
-<p> I'm a driven and analytical network administrator from San Miguel, Belize, with a passion for problem-solving. As an Information Technology major, I've honed my skills in a variety of technologies, including C++, Python, PHP, ReactJS, and mark-up languages for web development. </p>
+<p> I'm a driven and analytical network administrator from the Toledo District in Belize, with a passion for problem-solving. As an Information Technology major, I've honed my skills in a variety of technologies, including C++, Python, PHP, ReactJS, and mark-up languages for web development. </p>
 
 <p> In my current role as a network administrator, I thrive on the challenge of keeping systems running smoothly and securely, and I enjoy working with teams to identify and solve complex technical issues. I'm committed to staying up-to-date on the latest technologies and industry trends, and I'm always looking for new opportunities to learn and grow as a professional.</p>
 
