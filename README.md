@@ -1,29 +1,5 @@
 # Hi, I'm Floyd 👋🏽👨🏽‍💻    
 
-<div id="badges">
-    <a href="https://twitter.com/FloydDotDev">
-        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-
-   <a href="https://www.linkedin.com/in/floyd-ack-28b5a11a0/">
-       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-   </a>
-
-  <a href="https://www.behance.net/floydack">
-      <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
-  </a>
-
-  <a href="https://www.facebook.com/jason.ack/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-
-  <a href="https://www.instagram.com/floyd.ck/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-</div>
-
-<br/>
-
 <p>🔧 <strong>Network Administrator</strong> | 🔐 <strong>Cybersecurity Enthusiast</strong> | 🎨 <strong>Freelance Graphic Designer</strong> | <strong>From Toledo District, Belize</strong></p>
 
 <p> I'm a driven IT professional who is passionate about creating technology to elevate people, and building community. With a background in Information Technology, I've built a solid foundation in programming, web development, and networking, including experience with C++, Python, PHP, ReactJS, and various markup languages. </p>
