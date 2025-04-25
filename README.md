@@ -8,8 +8,8 @@
 
 <h3>Languages/Frameworks/Tools I work with:</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,qt,github,stackoverflow,cpp,py,figma,javascript,html,css,react,bootstrap" />
-    <img src="https://skillicons.dev/icons?i=linux,windows,aws,ubuntu,firebase,gcp,nodejs,mongodb,mysql,go,php,powershell" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,qt,github,cpp,py,figma,javascript,html,css,react" />
+    <img src="https://skillicons.dev/icons?i=linux,windows,aws,firebase,gcp,nodejs,mysql,go,php,powershell" /><br>
     <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,xd,blender,discord" /><br>
 </div>
 
