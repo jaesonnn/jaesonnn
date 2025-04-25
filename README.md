@@ -1,6 +1,6 @@
 # Hi, I'm Floyd 👋🏽👨🏽‍💻    
 
-<p>🔧 <strong>Network Administrator</strong> | 🔐 <strong>Cybersecurity Enthusiast</strong> | 🎨 <strong>Freelance Graphic Designer</strong> | <strong>From Toledo District, Belize</strong></p>
+<p>🔧 <strong>Network Administrator</strong> | 🔐 <strong>Cybersecurity Enthusiast</strong> | 🎨 <strong>Freelance Graphic Designer</strong> | 🌍 <strong>From Toledo District, Belize</strong></p>
 
 <p> I'm a driven IT professional who is passionate about creating technology to elevate people, and building community. With a background in Information Technology, I've built a solid foundation in programming, web development, and networking, including experience with C++, Python, PHP, ReactJS, and various markup languages. </p>
 
