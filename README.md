@@ -23,7 +23,6 @@
 </div>
 
 <br/>
-<br/>
 
 <p>🔧 <strong>Network Administrator</strong> | 🔐 <strong>Cybersecurity Enthusiast</strong> | 🎨 <strong>Freelance Graphic Designer</strong> | <strong>From Toledo District, Belize</strong></p>
 
