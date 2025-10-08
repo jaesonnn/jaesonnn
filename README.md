@@ -1,4 +1,4 @@
-# Hi, I'm Floyd 👋🏽👨🏽‍💻    
+# Hi, I'm Floyd
 
 <p>🔧 <strong>Network Administrator</strong> | 🔐 <strong>Cybersecurity Enthusiast</strong> | 🎨 <strong>Freelance Graphic Designer</strong></p>
 
